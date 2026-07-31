@@ -10,6 +10,15 @@ A simple desktop chat application built with **Python** and **PyQt6** that demon
 
 ---
 
+---
+
+## 📸 WORKFLOW
+
+![App workflow](workflow.png)
+
+---
+
+
 ## ✨ Features
 
 - Three-panel chat interface
